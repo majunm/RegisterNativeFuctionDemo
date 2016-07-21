@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdio.h>
 #include "../header/Common.h"
-//#include "../header/alog.h"
+#include "../header/alog.h"
 
 extern "C" void hello(JNIEnv *env, jobject thiiz);
 extern "C" jstring obtainString(JNIEnv *env, jobject thiz);
@@ -12,7 +12,7 @@ JNINativeMethod mthd[] = {
 };
 
 void hello(JNIEnv *env, jobject thiiz) {
- // LOGE("what=%s", "jni demo invoking.......................");
+ LOGE("what=%s", "jni demo invoking.......................");
 }
 
 jstring obtainString(JNIEnv *env, jobject thiz) {

@@ -20,7 +20,9 @@ D:/BaoBeiBao/JNI/hey_jni/src/main//obj/local/mips/objs/test/src/JULY.o: \
  D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/linux/types.h \
  D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/machine/kernel.h \
  D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/sys/sysmacros.h \
- D:/BaoBeiBao/JNI/hey_jni/src/main//jni/src/../header/Common.h
+ D:/BaoBeiBao/JNI/hey_jni/src/main//jni/src/../header/Common.h \
+ D:/BaoBeiBao/JNI/hey_jni/src/main//jni/src/../header/alog.h \
+ D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/android/log.h
 
 D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/jni.h:
 
@@ -63,3 +65,7 @@ D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/mach
 D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/sys/sysmacros.h:
 
 D:/BaoBeiBao/JNI/hey_jni/src/main//jni/src/../header/Common.h:
+
+D:/BaoBeiBao/JNI/hey_jni/src/main//jni/src/../header/alog.h:
+
+D:/WorkSpace/Tool/android-ndk-r10/platforms/android-9/arch-mips/usr/include/android/log.h:
