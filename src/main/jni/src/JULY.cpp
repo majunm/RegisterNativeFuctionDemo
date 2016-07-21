@@ -12,11 +12,11 @@ JNINativeMethod mthd[] = {
 };
 
 void hello(JNIEnv *env, jobject thiiz) {
-  //LOGE("what=%s", "jni demo invoking.......................");
+ // LOGE("what=%s", "jni demo invoking.......................");
 }
 
 jstring obtainString(JNIEnv *env, jobject thiz) {
-    return env->NewStringUTF("hey!!!,我来之c/c++的世界,你好java世界!");
+    return env->NewStringUTF("hey!!!,我来之c/c++的世界,你好java世界!----");
 }
 
 int registerNative(JNIEnv *env) {
